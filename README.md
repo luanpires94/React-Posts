@@ -1,4 +1,4 @@
-# On Netlify: https://react-posts.netlify.app/
+# Online link: https://react-posts.netlify.app/
 
 # Getting Started with Create React App
 
